@@ -7,6 +7,6 @@
 <body>
   <h1>Download Silverbullet</h1>
   <p>To download SilverBullet, please click on the link below :</p>
-  <a href="https://www.mediafire.com/file/cl9nlmt60hr9hx3/SilverBullet+v1.1.2.rar/file" class="download-link" target="_blank">Download</a>
+  <a href="https://www.mediafire.com/file/lk0d92073ywnlfv/SilverBullet_v1.1.2.rar" class="download-link" target="_blank">Download</a>
 </body>
 </html>
